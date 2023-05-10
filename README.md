@@ -1,5 +1,5 @@
 # Doctor_App
-doctor app is an application for doctors to sotre  The patients machine model for cancer detect
+doctor app is an application for doctors to sotre  The patients machine model for cancer detect using Firebase and Api
 ![1683727995201](https://github.com/HossamEzzat/Doctor_App/assets/77586282/784ebb25-fbf0-4851-9ab1-1339f79a8090)
 ![1683727995207](https://github.com/HossamEzzat/Doctor_App/assets/77586282/0b5c89d5-61ee-4b39-961b-87044fcbdaf9)
 ![1683727995213](https://github.com/HossamEzzat/Doctor_App/assets/77586282/1fecfde8-b10a-4527-9bc9-84c3f0e55476)
